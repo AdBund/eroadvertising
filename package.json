@@ -1,0 +1,35 @@
+{
+  "name": "",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dest/index.js",
+  "scripts": {
+    "test": "mocha --require babel-core/register --timeout 10000",
+    "eslint": "eslint ./src",
+    "build": "babel src --out-dir dest",
+    "watch:test": "nodemon --watch ./src --watch ./test --recursive --exec npm run test",
+    "watch:build": "nodemon --watch ./src --recursive --exec npm run build",
+    "prepublish": "npm run eslint && npm run build"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bluebird": "^3.4.7",
+    "superagent": "^3.3.2",
+    "superagent-promise": "^1.1.0"
+  },
+  "devDependencies": {
+    "babel-eslint": "^7.1.1",
+    "babel-preset-latest": "^6.14.0",
+    "eslint": "^3.13.0",
+    "eslint-config-standard": "^6.0.0",
+    "eslint-plugin-promise": "^2.0.1",
+    "eslint-plugin-standard": "^2.0.0",
+    "nodemon": "^1.10.2",
+
+    "babel-core": "^6.22.1",
+    "chai": "^3.5.0",
+    "mocha": "^3.2.0"
+  }
+}

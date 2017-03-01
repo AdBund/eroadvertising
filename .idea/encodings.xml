@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/../Zeropark/.gitignore" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../Zeropark/src/lib/ad_copy_action.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../Zeropark/src/lib/base.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../Zeropark/src/lib/campaign_actions.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../Zeropark/src/lib/campaign_bulk_actions.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../Zeropark/src/lib/campaign_details.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../Zeropark/src/lib/campaigns.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../Zeropark/src/lib/country-actions.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../Zeropark/src/lib/keyword_actions.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../Zeropark/src/lib/location_actions.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../Zeropark/src/lib/paused_targets.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../Zeropark/src/lib/source_actions.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../Zeropark/src/lib/target_actions.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../Zeropark/src/lib/time_aggregated_campaigns.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../Zeropark/src/lib/user_account_details.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/package.json" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/index.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/lib/base.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/lib/campaign_actions.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/utils/request.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/test/index.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../exoClick/.gitignore" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../exoClick/package.json" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../exoClick/src/index.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../exoClick/src/lib/base.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../exoClick/src/lib/campaign.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../exoClick/test/index.js" charset="UTF-8" />
+    <file url="PROJECT" charset="GBK" />
+  </component>
+</project>
